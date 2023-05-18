@@ -39,8 +39,12 @@ Master and Student YOLOs, Image by Author
 
 YOLO models are also faster to train and have the ability to produce high accuracy with smaller model sizes. They can be trained on single GPUs, making them more accessible to developers like us. 
 YOLOv8 is the latest iteration of these YOLO models (as of early 2023). It has undergone a few major changes from its ancestors, such as anchor free detection, the introduction of C3 convolutions, and mosaic augmentation. 
-</p>
-     
+      </p> 
+    
+ <div class="gif-container" style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <img src="https://miro.medium.com/v2/resize:fit:750/1*AOGvVpgTfItGF89ngPrvLw.gif" width="350" height="350" alt="Solution Representation" style="margin: auto;">
+</div> 
+   
     <br>    
 
 <p><b>♻️ SYSTEM WORKFLOW:</b></p>
