@@ -3,6 +3,7 @@
 <html>
   <head>
     <img src="https://www.sportsadda.com/static-assets/waf-images/dc/eb/dc/16-9/Hj9ge5pEyM.jpg?v=1.3&w=420%20420w"  width="950" height="575" title="⚽FOOTBALL AND PLAYER DETECTION" align="center" style="margin-top: 20px; border: 1px solid #ccc;">
+    
   </head>
   <body>
  <p><b>↪ COMPUTER VISION</b></p>
@@ -26,7 +27,8 @@ Here’s an example of how this distinction looks in practice:
           <br>
   <img src="https://www.fritz.ai/images/object_detection_vs_image_recognition.jpg" >
     </p> 
-    
+   
+<div>    
 <p><b>↪ YOLO V8</b></p>
     <p>What is YOLOv8?
 YOLOv8 is the latest iteration of the YOLO family of models. YOLO stands for You Only Look Once and these series of models are thus named because of their ability to predict every object present in an image with one forward pass. 
@@ -39,13 +41,10 @@ Master and Student YOLOs, Image by Author
 
 YOLO models are also faster to train and have the ability to produce high accuracy with smaller model sizes. They can be trained on single GPUs, making them more accessible to developers like us. 
 YOLOv8 is the latest iteration of these YOLO models (as of early 2023). It has undergone a few major changes from its ancestors, such as anchor free detection, the introduction of C3 convolutions, and mosaic augmentation. 
-      </p> 
-    
- <div class="gif-container" style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img src="https://miro.medium.com/v2/resize:fit:750/1*AOGvVpgTfItGF89ngPrvLw.gif" width="350" height="350" alt="Solution Representation" style="margin: auto;">
-</div> 
+</p> 
+
    
-    <br>    
+ <br>    
 
 <p><b>♻️ SYSTEM WORKFLOW:</b></p>
    
